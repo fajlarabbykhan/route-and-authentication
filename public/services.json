@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "name": "CRIMINAL DEFENSE",
+        "consultation fee": "1000/DAY",
+        "description-1": "If you have been arrested or charged with a crime, you need a lawyer working aggressively on your behalf to protect your rights. Failure to hire the right criminal defense lawyers could have tremendous consequences as many convictions result in prison sentences and a lifelong criminal record. Do not place your future in the hands of a law firm unwilling or unable to give it the attention it deserves.",
+        "description-2": "Aita Law, LLC is dedicated to protecting the rights of accused individuals throughout South Jersey. With over 20 years experience in New Jersey’s municipal, state, and federal courts, we have successfully defended individuals accused of crimes ranging from petty offenses and misdemeanors to felonies.",
+        "img": "https://i.ibb.co/PMSpHKT/criminal-defense.jpg"
+    },
+    {
+        "id": 2,
+        "name": "SEXUAL ASSAULT",
+        "consultation fee": "400/DAY",
+        "description-1": "If you have been accused of sex crimes in New Jersey, your first priority should be finding a criminal defense attorney. A conviction for sexual assault will ruin your life. To maintain your innocence and freedom when accused of sex crimes, you need to retain a lawyer who will proactively fight for you. Waiting until charges have been filed to seek legal representation is often too late.",
+        "description-2": "Rape and sexual assault in New Jersey carry some of the harshest penalties of any crime imaginable. Even with a spotless record, a sex crime conviction means decades in prison, where the nature of the offense marks you as a public enemy even among fellow prisoners.",
+        "description-3": "And upon release, you would be publicly branded a sex offender for the rest of your life, required to register with your local police department and living under observation from both law enforcement and various vigilante groups.",
+        "img": "https://i.ibb.co/t4BY2vx/Sexual-Assault.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Drug Charges",
+        "consultation fee": "500/DAY",
+        "description-1": "Drug charges are something to take seriously; a conviction can negatively impact your life in many ways, including your emotional health and family relationships, finances, and current and future employment prospects. If you are facing drug charges, it is crucial that you have an experienced lawyer by your side who knows the court system and can provide you with skilled representation. At Aita Law, LLC, we have the knowledge and experience needed to defend your case and obtain the best possible outcome for your situation.",
+        "img": "https://i.ibb.co/wQYV1tm/Drug-Charges.jpg"
+    },
+    {
+        "id": 4,
+        "name": "DOMESTIC VIOLENCE",
+        "consultation fee": "600/DAY",
+        "description-1": "A domestic violence allegation is very serious.  Your freedom, lifestyle, and access to your children are at stake. Good counsel can make all of the difference. The courts characterize many crimes as domestic violence despite the facts and circumstances.  Often times, Restraining Orders go along with the charges. Even though a restraining order is a civil matter, having a Restraining Order can have devastating effects on you life and employment.  You must enter a national registry and may be restricted from certain employment. In addition, restraining orders never go away. They stay with you for life.  Any minor violation is a separate criminal act that could expose you to incarceration.",
+        "img": "https://i.ibb.co/Yh1qLgV/domestic-violence.jpg"
+    },
+    {
+        "id": 5,
+        "name": "EXPUNGEMENTS",
+        "consultation fee": "700/DAY",
+        "description-1": "Those convicted of a sex crime may feel trapped, even after serving their sentence and being released. This is often attributed to Megan’s Law, which requires those convicted of a sex crime to put their name on a registry that is available to the public. This registry often surfaces upon an employment background check. This can make it more difficult for an individual to get their life back on track after their conviction.",
+        "img": "https://i.ibb.co/8bKczY2/EXPUNGEMENTS.jpg"
+    },
+    {
+        "id": 6,
+        "name": "DUI/DWI",
+        "consultation fee": "800/DAY",
+        "description-1": "When you are stopped by the police for a moving traffic violation, it is easy to feel defeated. You may ask, why me? Why now? Will I lose my license? Will I go to jail or lose my job? You may believe the deck is stacked against you.",
+        "description-2": "No matter how bad things seem, you can improve your chances for a good outcome with a strong, determined South Jersey DUI/DWI lawyer by your side. There are many cases where the law is not clear cut. Aita Law, LLC knows the law and the courts, and is prepared to defend your rights. Do not let a criminal conviction ruin the years ahead. Call us at 856-287-7800 today for a free consultation.",
+        "img": "https://i.ibb.co/ZTmnBFj/DUI-DWI.jpg"
+    }
+]
